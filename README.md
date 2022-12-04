@@ -1,0 +1,2 @@
+# NewYearProject
+Small educational project
